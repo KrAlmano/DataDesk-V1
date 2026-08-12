@@ -1,4 +1,4 @@
-# Veri Düzenleyici V1
+# DataDesk-V1
 
 CustomTkinter ile geliştirilmiş, Excel/CSV dosyalarını görsel bir arayüzden filtrelemeyi,
 düzenlemeyi ve Excel/Word/CSV formatlarında dışa aktarmayı sağlayan bir masaüstü veri
